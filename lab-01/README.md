@@ -1,14 +1,16 @@
 # Lab 1: Node.js and Express Server
 
-| Information | Details | Additional Information |
-| :--- | :--- | :--- |
-| **Student Name** | PREM SAI . A | |
-| **Student Registration Number** | 252U1R5124 | **Class & Section:** 313 AI DE 2B |
-| **Study Level : UG/PG/Doctorate** | UG | **Year & Term:** 2 & 2 |
-| **Subject Name** | Backend Development Fundamentals | |
-| **Teacher / Faculty Name** | Mr Yugandhar Gurjalwar | |
-| **Name of the Assessment** | LAB REPORT - 1 | |
-| **Date of Submission** | 6/11/2026 | |
+| Field | Details |
+| :--- | :--- |
+| **Student Name** | PREM SAI . A |
+| **Student Registration Number** | 252U1R5124 |
+| **Class & Section** | 313 AI DE 2B |
+| **Study Level** | UG |
+| **Year & Term** | 2 & 2 |
+| **Subject Name** | Backend Development Fundamentals |
+| **Teacher / Faculty Name** | Mr Yugandhar Gurjalwar |
+| **Name of the Assessment** | LAB REPORT - 1 |
+| **Date of Submission** | 6/11/2026 |
 
 ---
 
