@@ -1,13 +1,14 @@
 # Lab 2: SQLite database and CRUD routes
 
-**Name:** Prem Sai . A · **Registration Number:** 252U1R5124 · **Section:** AIDE-2B-313  
-**Course:** Backend Development Fundamentals (Year II Term II · Aurora)  
-**Faculty:** Joel Prashanth D  
-
----
-
-## Live Link
-**Live URL:** Not Applicable (Local development environment requested; tested locally using Postman and SQLite CLI. Complete Postman screenshots for every endpoint and SQLite CLI database verification are documented below).
+| Information | Details | Additional Information |
+| :--- | :--- | :--- |
+| **Student Name** | PREM SAI . A | |
+| **Student Registration Number** | 252U1R5124 | **Class & Section:** 313 AI DE 2B |
+| **Study Level : UG/PG/Doctorate** | UG | **Year & Term:** 2 & 2 |
+| **Subject Name** | Backend Development Fundamentals | |
+| **Teacher / Faculty Name** | Mr Yugandhar Gurjalwar | |
+| **Name of the Assessment** | LAB REPORT - 2 | |
+| **Date of Submission** | 6/11/2026 | |
 
 ---
 
