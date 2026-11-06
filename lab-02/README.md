@@ -1,6 +1,6 @@
 # Lab 2: SQLite database and CRUD routes
 
-**Name:** [Student Name] · **Registration Number:** [Registration Number] · **Section:** [Section]  
+**Name:** Prem Sai . A · **Registration Number:** 252U1R5124 · **Section:** AIDE-2B-313  
 **Course:** Backend Development Fundamentals (Year II Term II · Aurora)  
 **Faculty:** Joel Prashanth D  
 

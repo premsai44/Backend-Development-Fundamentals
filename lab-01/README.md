@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Name:** Prem
+- **Name:** Prem Sai . A
 - **Registration Number:** 252U1R5124
 - **Section:** AIDE-2B-313
 
